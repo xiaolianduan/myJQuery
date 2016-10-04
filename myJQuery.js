@@ -1,4 +1,3 @@
-
 // 创建构造函数
 function jquery(selector,context){
 	  this.flag=="jQuery"
